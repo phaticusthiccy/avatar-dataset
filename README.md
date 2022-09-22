@@ -9,5 +9,7 @@ Raw data stack of 1,000 sample anime images.
 
 ## Features
 
-- 256X256 Medium Quality
+- 256x256 Avatar Dataset
+- 256x256 Anime Dataset
+- 512x512 Starfield Dataset
 - Micro Bloom
