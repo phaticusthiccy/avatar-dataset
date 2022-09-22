@@ -16,7 +16,7 @@ Raw data stack of 60 sample starfield texture images.
 
 ## Features
 
-- 128x128 Pepe Dataset ()
+- 128x128 Pepe Dataset (71 MB)
 - 256x256 Avatar Dataset (280 MB)
 - 256x256 Anime Dataset (131 MB)
 - 256x256 Pony Dataset (103 MB)
