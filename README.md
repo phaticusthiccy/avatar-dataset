@@ -25,6 +25,6 @@ Raw data stack of 60 sample starfield texture images.
 - Micro Bloom
 - Nearest Interpolation
 
-## Others
+## Others (Non-Usable)
 
 - 170,000 TR Phone Number
