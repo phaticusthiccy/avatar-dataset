@@ -1,7 +1,7 @@
 
 # Avatar Dataset
 
-Raw data stack of 19,000 sample avatars created for [Avatar AI](https://t.me/AvatarAIBot).
+Raw data stack of 20,100 sample avatars created for [Avatar AI](https://t.me/AvatarAIBot).
 
 Raw data stack of 3,000 sample pepe meme images.
 
